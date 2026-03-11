@@ -1,6 +1,5 @@
 # YourBank — Banking Dashboard
 
-Учебный проект фронтенд-разработчика. Демонстрирует навыки работы с React, TypeScript, Redux Toolkit, роутингом, авторизацией и внешними API.
 
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
@@ -75,8 +74,9 @@ yarn
 ```
 ### 3. Запуск JSON Server (моковый бэкенд)
 ```bash
-npm run server
-# Сервер будет доступен на http://localhost:3000
+npm run json-server
+
+# Сервер будет доступен на http://localhost:3001
 ```
 ### 4. Запуск фронтенда
 ```bash
